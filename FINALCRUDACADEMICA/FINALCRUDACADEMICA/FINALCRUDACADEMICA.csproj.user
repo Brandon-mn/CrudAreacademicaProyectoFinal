@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AcademicAward.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AcademicDiploma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Activity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CandidateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Career.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CareerPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Class.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classroom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Conference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DegreeRequirements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DropOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExternalPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="From1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Groupp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kardex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlanSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Position.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServicePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudyPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherEvaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
